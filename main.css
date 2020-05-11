@@ -27,7 +27,7 @@ h1{
 }
 h1::after{}
 body{
-    width: 100vh;
+    margin:0;
     height: 100vh;
     background-image: -webkit-linear-gradient(to bottom left, #F3904F, #3B4371);
     background-image: -moz-linear-gradient(to bottom left, #F3904F, #3B4371);
